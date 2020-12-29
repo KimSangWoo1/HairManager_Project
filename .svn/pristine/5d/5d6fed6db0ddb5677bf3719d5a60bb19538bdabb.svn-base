@@ -1,0 +1,180 @@
+package com.example.hm_project.Command;
+
+
+import android.app.DatePickerDialog;
+import android.graphics.Color;
+import android.text.Editable;
+import android.text.TextWatcher;
+import android.util.Log;
+import android.view.View;
+import android.widget.EditText;
+import android.widget.TextView;
+
+import com.example.hm_project.view.activity.SignUpActivity;
+import com.google.android.material.textfield.TextInputEditText;
+
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Locale;
+import java.util.regex.Pattern;
+
+public class EditTextInput {
+    private String Red = "#FF0000", Green = "#27AE60";
+
+    // String 값이 비었는지 검사해준다.
+    public static boolean checkNPE(String str) {
+        return str == null || str.trim().isEmpty();
+    }
+
+    public static boolean checkTitle(String diaryTitle) {
+        int size = diaryTitle.getBytes().length;
+        //최대 33자 - 한글기준
+        if (size > 100) {
+            Log.i("제목 길이 오버 : ", "" + size);
+            return true;
+        } else
+            Log.i("제목 길이 : ", "" + size);
+        return false;
+    }
+
+    //최대 5,592,405자 - 한글기준
+    public static boolean checkContent(String diaryContent) {
+        int size = diaryContent.getBytes().length;
+        return size > 16777215;
+    }
+
+    // 이메일을 입력받는다
+    public void inputEmail(EditText editText, TextView textView) {
+        editText.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+            }
+
+            @Override
+            public void onTextChanged(CharSequence s, int start, int before, int count) {
+                if (android.util.Patterns.EMAIL_ADDRESS.matcher(s.toString()).matches()) {
+                    textView.setText("");         //에러 메세지 제거
+                } else if (EditTextInput.checkNPE(editText.getText().toString())) {
+                    textView.setText("필수 정보입니다.");    // 경고 메세지
+                    textView.setTextColor(Color.parseColor(Red));
+                } else {
+                    textView.setText("이메일 형식으로 입력해주세요.");    // 경고 메세지
+                    textView.setTextColor(Color.parseColor(Red));
+                }
+            }
+
+            @Override
+            public void afterTextChanged(Editable s) {
+            }
+        });
+    }
+
+    // 패스워드을 입력받는다
+    public void inputPassword(EditText editText, TextView textView) {
+        editText.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+            }
+
+            @Override
+            public void onTextChanged(CharSequence s, int start, int before, int count) {
+                if (Pattern.matches("^(?=.*\\d)(?=.*[~`!@#$%\\^&*()-])(?=.*[a-zA-Z]).{8,20}$", editText.getText().toString())) {
+                    textView.setText("");         //에러 메세지 제거
+                } else if (EditTextInput.checkNPE(editText.getText().toString())) {
+                    textView.setText("필수 정보입니다.");    // 경고 메세지
+                    textView.setTextColor(Color.parseColor(Red));
+                } else {
+                    textView.setText("8~20자 영문 대 소문자, 숫자, 특수문자를 사용하세요.");    // 경고 메세지
+                    textView.setTextColor(Color.parseColor(Red));
+                }
+            }
+
+            @Override
+            public void afterTextChanged(Editable s) {
+            }
+        });
+    }
+
+    // 변경할 패스워드를 입력받는다
+    public void inputChangePassword(EditText editText, TextView textView, EditText compare) {
+        editText.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+            }
+
+            @Override
+            public void onTextChanged(CharSequence s, int start, int before, int count) {
+                //에러 메세지 제거
+                if (editText.getText().toString().equals(compare.getText().toString())) {
+                    textView.setText("기존과 동일합니다. 다르게 입력해주세요.");
+                    textView.setTextColor(Color.parseColor(Red));
+                } else if (Pattern.matches("^(?=.*\\d)(?=.*[~`!@#$%\\^&*()-])(?=.*[a-zA-Z]).{8,20}$", editText.getText().toString())) {
+                    textView.setText("");
+                } else if (EditTextInput.checkNPE(editText.getText().toString())) {
+                    textView.setText("필수 정보입니다.");    // 경고 메세지
+                    textView.setTextColor(Color.parseColor(Red));
+                } else {
+                    textView.setText("8~20자 영문 대 소문자, 숫자, 특수문자를 사용하세요.");    // 경고 메세지
+                    textView.setTextColor(Color.parseColor(Red));
+                }
+            }
+
+            @Override
+            public void afterTextChanged(Editable s) {
+            }
+        });
+    }
+
+    // 패스워드 재확인을 입력받는다.
+    public void inputAgainPassword(EditText editText, TextView textView, EditText compare) {
+        editText.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+            }
+
+            @Override
+            public void onTextChanged(CharSequence s, int start, int before, int count) {
+                if (editText.getText().toString().equals(compare.getText().toString())) {
+                    textView.setTextColor(Color.parseColor(Green));
+                    textView.setText("비밀번호가 일치합니다.");
+                } else if (EditTextInput.checkNPE(editText.getText().toString())) {
+                    textView.setText("필수 정보입니다.");
+                    textView.setTextColor(Color.parseColor(Red));
+                } else {
+                    textView.setTextColor(Color.parseColor(Red));
+                    textView.setText("비밀번호가 일치하지 않습니다.");    // 경고 메세지
+                }
+            }
+
+            @Override
+            public void afterTextChanged(Editable s) {
+            }
+        });
+    }
+
+    // 핸드폰번호를 입력받는다.
+    public void inputPhoneNO(EditText editText, TextView textView) {
+        editText.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+            }
+
+            @Override
+            public void onTextChanged(CharSequence s, int start, int before, int count) {
+                if (Pattern.matches("^01(?:0|1|[6-9])(?:\\d{3}|\\d{4})\\d{4}$", editText.getText().toString())) {
+                    textView.setText("");         //에러 메세지 제거
+                } else if (EditTextInput.checkNPE(editText.getText().toString())) {
+                    textView.setText("필수 정보입니다.");    // 경고 메세지
+                    textView.setTextColor(Color.parseColor(Red));
+                } else {
+                    textView.setText("핸드폰번호 형식에 맞게 입력해주세요.");    // 경고 메세지
+                    textView.setTextColor(Color.parseColor(Red));
+                }
+            }
+
+            @Override
+            public void afterTextChanged(Editable s) {
+            }
+        });
+    }
+}

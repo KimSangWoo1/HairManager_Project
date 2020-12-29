@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\font_verdanab.ttf.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\font\\verdanab.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_datepiker.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\item_datepiker.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_plusbtn.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable-v24\\plusbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_mypage.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\menu\\menu_mypage.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_claendartitle.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\dialog_claendartitle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\font_verdanai.ttf.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\font\\verdanai.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yellow_edittext.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\yellow_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkbox_custom.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\checkbox_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_findpassword.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\activity_findpassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_actionbar.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\custom_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notify_checkbox_custom.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\notify_checkbox_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_gallery2.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable-v24\\ic_gallery2.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gallery.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\activity_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_calendar2.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable-v24\\ic_calendar2.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_updatepassword.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\activity_updatepassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\font_verdana.ttf.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\font\\verdana.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_null_load.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable-v24\\null_load.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_button.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\circle_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_green_edittext.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\green_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_check.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable-v24\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grey_edittext.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\grey_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_description.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable-v24\\ic_description.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_calendar.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detaildiary.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\activity_detaildiary.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\font_dinot_regular.ttf.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\font\\dinot_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_writediary.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\activity_writediary.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_detailpage.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\menu\\menu_detailpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\raw_loading.gif.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\raw\\loading.gif"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_rounding.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\background_rounding.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_check_white.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\check_white.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_more.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\more.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_search.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable-v24\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hairset.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\activity_hairset.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_selector_color.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\menu_selector_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_test.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\content_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\font_dinot_bold.ttf.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\font\\dinot_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notify_all_checkbox_custom.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\notify_all_checkbox_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_findemail.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\activity_findemail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mypage.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\activity_mypage.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notify_item.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\notify_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_mypage2.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable-v24\\ic_mypage2.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kakao_login_medium_narrow.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable-v24\\kakao_login_medium_narrow.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_switch_track_selector.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable-v24\\switch_track_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_activity.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\popup_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\font_fontstyles.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\font\\fontstyles.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_error_uri.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable-v24\\error_uri.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_delete.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable-v24\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_writepage.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\menu\\menu_writepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_alarm.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable-v24\\ic_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_item.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\row_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_timepicker.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\item_timepicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_account.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable-v24\\ic_account.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_goalbum.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable-v24\\goalbum.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notify.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\activity_notify.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_edittext.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\white_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\font_verdanaz.ttf.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\font\\verdanaz.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_notify_delete_item.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\notify_delete_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_switch_thumb_selector.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable-v24\\switch_thumb_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_black.png.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\logo_black.png"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_gallery_item.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\gallery_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_all_checkbox_custom.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\drawable\\all_checkbox_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ksw\\Desktop\\Android_Project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

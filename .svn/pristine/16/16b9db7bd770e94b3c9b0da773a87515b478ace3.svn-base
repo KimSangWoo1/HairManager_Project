@@ -1,0 +1,15 @@
+package com.example.hm_project.data;
+
+public class APIManager {
+
+    static public String Calendar001_URL="http://218.234.77.98:8080//HairManager/Calendar_JSP/MonthList.jsp?userNO=";
+    static public String Calendar002_URL="http://218.234.77.98:8080//HairManager/Calendar_JSP/DetailDiary.jsp?userNO=";
+    static public String Calendar003_URL="http://218.234.77.98:8080//HairManager/Calendar_JSP/WriteDiary.jsp";
+    static public String Calendar004_URL= "http://218.234.77.98:8080//HairManager/Calendar_JSP/UpdateDiary.jsp";
+    static public String Calendar005_URL="http://218.234.77.98:8080//HairManager/Calendar_JSP/DeleteDiary.jsp";
+    static public String MyPage_001="http://218.234.77.98:8080//HairManager/Mypage/MyPage.jsp?userNO=";
+    static public String MyPage_002="http://218.234.77.98:8080//HairManager/Mypage/HairSetting.jsp";
+    static public String MyPage_003="http://218.234.77.98:8080//HairManager/Mypage/HairSetting.jsp?userNO=";
+    static public String MyPage_008="http://218.234.77.98:8080//HairManager/Mypage/UpdateProfilePhoto.jsp";
+
+}
